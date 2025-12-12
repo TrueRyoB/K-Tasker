@@ -1,3 +1,12 @@
+# K-Tasker
+## Abstraction
+This is a browser-based task management app that offers following experiences.
+- save and load offline
+- insertion and removal
+- specifying priority weight and dependency
+- topological sort
+- timer
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
